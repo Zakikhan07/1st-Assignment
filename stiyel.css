@@ -1,0 +1,112 @@
+.z1 {
+    color: aqua;
+    background-color: black;
+    padding: 20px;
+    margin: 10;
+    text-align: center;
+    border: 10px solid skyblue;
+
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+p {
+    padding: 10px;
+    margin: 0;
+}
+
+.z2 {
+    background-color: rgb(22, 140, 200);
+    color: azure;
+    text-align: center;
+}
+
+.z3 {
+    background-color: rgb(20, 174, 240);
+    color: azure;
+    text-align: center;
+}
+
+.z4 {
+    background-color: rgb(18, 180, 260);
+    color: azure;
+    text-align: center;
+}
+
+.z5 {
+    background-color: rgb(16, 190, 270);
+    color: azure;
+    text-align: center;
+}
+
+.z6 {
+    background-color: rgb(14, 200, 280);
+    color: azure;
+    text-align: center;
+}
+
+.z7 {
+    background-color: rgb(12, 210, 290);
+    color: azure;
+    text-align: center;
+}
+
+.z8 {
+    background-color: rgb(10, 220, 300);
+    color: whitesmoke;
+    text-align: center;
+}
+
+.z9 {
+    text-align: center;
+    background-color: black;
+    color:aqua;
+    text-align: center;
+    border: 4px solid;
+}
+
+.z10 {
+    background-color: rgb(292, 135, 212);
+    color: aqua;
+    text-align: center;
+}
+
+.z11 {
+    background-color: rgb(282, 125, 202);
+    color: aqua;
+    text-align: center;
+}
+
+.z12 {
+    background-color: rgb(272, 115, 192);
+    color: aqua;
+    text-align: center;
+}
+
+.z13 {
+    background-color: rgb(262, 105, 182);
+    color: aqua;
+    text-align: center;
+}
+
+.z14 {
+    background-color: rgb(252, 95, 172);
+    color: aqua;
+    text-align: center;
+}
+
+.z15 {
+    background-color: rgb(242, 83, 162);
+    color: aqua;
+    text-align: center;
+}
+
+.z16 {
+    background-color: rgb(232, 73, 152);
+    color: aqua;
+    text-align: center;
+}
